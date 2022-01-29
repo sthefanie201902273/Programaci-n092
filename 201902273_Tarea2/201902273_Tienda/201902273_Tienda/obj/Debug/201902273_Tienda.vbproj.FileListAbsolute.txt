@@ -1,0 +1,12 @@
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_Tarea2\201902273_Tienda\201902273_Tienda\bin\Debug\201902273_Tienda.exe.config
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_Tarea2\201902273_Tienda\201902273_Tienda\bin\Debug\201902273_Tienda.exe
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_Tarea2\201902273_Tienda\201902273_Tienda\bin\Debug\201902273_Tienda.pdb
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_Tarea2\201902273_Tienda\201902273_Tienda\bin\Debug\201902273_Tienda.xml
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_Tarea2\201902273_Tienda\201902273_Tienda\obj\Debug\201902273_Tienda.vbprojResolveAssemblyReference.cache
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_Tarea2\201902273_Tienda\201902273_Tienda\obj\Debug\_201902273_Tienda.Form1.resources
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_Tarea2\201902273_Tienda\201902273_Tienda\obj\Debug\_201902273_Tienda.Resources.resources
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_Tarea2\201902273_Tienda\201902273_Tienda\obj\Debug\201902273_Tienda.vbproj.GenerateResource.Cache
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_Tarea2\201902273_Tienda\201902273_Tienda\obj\Debug\201902273_Tienda.vbproj.CoreCompileInputs.cache
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_Tarea2\201902273_Tienda\201902273_Tienda\obj\Debug\201902273_Tienda.exe
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_Tarea2\201902273_Tienda\201902273_Tienda\obj\Debug\201902273_Tienda.xml
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_Tarea2\201902273_Tienda\201902273_Tienda\obj\Debug\201902273_Tienda.pdb
