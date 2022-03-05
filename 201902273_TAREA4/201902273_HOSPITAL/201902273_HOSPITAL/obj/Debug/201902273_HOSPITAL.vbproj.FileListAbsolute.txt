@@ -1,0 +1,12 @@
+C:\Users\sthef\source\repos\201902273_HOSPITAL\201902273_HOSPITAL\bin\Debug\201902273_HOSPITAL.exe.config
+C:\Users\sthef\source\repos\201902273_HOSPITAL\201902273_HOSPITAL\bin\Debug\201902273_HOSPITAL.exe
+C:\Users\sthef\source\repos\201902273_HOSPITAL\201902273_HOSPITAL\bin\Debug\201902273_HOSPITAL.pdb
+C:\Users\sthef\source\repos\201902273_HOSPITAL\201902273_HOSPITAL\bin\Debug\201902273_HOSPITAL.xml
+C:\Users\sthef\source\repos\201902273_HOSPITAL\201902273_HOSPITAL\obj\Debug\201902273_HOSPITAL.vbprojResolveAssemblyReference.cache
+C:\Users\sthef\source\repos\201902273_HOSPITAL\201902273_HOSPITAL\obj\Debug\_201902273_HOSPITAL.Form1.resources
+C:\Users\sthef\source\repos\201902273_HOSPITAL\201902273_HOSPITAL\obj\Debug\_201902273_HOSPITAL.Resources.resources
+C:\Users\sthef\source\repos\201902273_HOSPITAL\201902273_HOSPITAL\obj\Debug\201902273_HOSPITAL.vbproj.GenerateResource.Cache
+C:\Users\sthef\source\repos\201902273_HOSPITAL\201902273_HOSPITAL\obj\Debug\201902273_HOSPITAL.vbproj.CoreCompileInputs.cache
+C:\Users\sthef\source\repos\201902273_HOSPITAL\201902273_HOSPITAL\obj\Debug\201902273_HOSPITAL.exe
+C:\Users\sthef\source\repos\201902273_HOSPITAL\201902273_HOSPITAL\obj\Debug\201902273_HOSPITAL.xml
+C:\Users\sthef\source\repos\201902273_HOSPITAL\201902273_HOSPITAL\obj\Debug\201902273_HOSPITAL.pdb
