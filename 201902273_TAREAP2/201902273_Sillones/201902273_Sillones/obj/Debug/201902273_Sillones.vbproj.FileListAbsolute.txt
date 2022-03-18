@@ -1,0 +1,12 @@
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREAP2\201902273_Sillones\201902273_Sillones\bin\Debug\201902273_Sillones.exe.config
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREAP2\201902273_Sillones\201902273_Sillones\bin\Debug\201902273_Sillones.exe
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREAP2\201902273_Sillones\201902273_Sillones\bin\Debug\201902273_Sillones.pdb
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREAP2\201902273_Sillones\201902273_Sillones\bin\Debug\201902273_Sillones.xml
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREAP2\201902273_Sillones\201902273_Sillones\obj\Debug\201902273_Sillones.vbprojResolveAssemblyReference.cache
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREAP2\201902273_Sillones\201902273_Sillones\obj\Debug\_201902273_Sillones.Form1.resources
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREAP2\201902273_Sillones\201902273_Sillones\obj\Debug\_201902273_Sillones.Resources.resources
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREAP2\201902273_Sillones\201902273_Sillones\obj\Debug\201902273_Sillones.vbproj.GenerateResource.Cache
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREAP2\201902273_Sillones\201902273_Sillones\obj\Debug\201902273_Sillones.vbproj.CoreCompileInputs.cache
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREAP2\201902273_Sillones\201902273_Sillones\obj\Debug\201902273_Sillones.exe
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREAP2\201902273_Sillones\201902273_Sillones\obj\Debug\201902273_Sillones.xml
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREAP2\201902273_Sillones\201902273_Sillones\obj\Debug\201902273_Sillones.pdb
