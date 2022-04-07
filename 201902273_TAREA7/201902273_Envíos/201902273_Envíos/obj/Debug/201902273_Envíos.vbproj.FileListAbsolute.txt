@@ -1,0 +1,12 @@
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREA7\201902273_Envíos\201902273_Envíos\bin\Debug\201902273_Envíos.exe.config
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREA7\201902273_Envíos\201902273_Envíos\bin\Debug\201902273_Envíos.exe
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREA7\201902273_Envíos\201902273_Envíos\bin\Debug\201902273_Envíos.pdb
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREA7\201902273_Envíos\201902273_Envíos\bin\Debug\201902273_Envíos.xml
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREA7\201902273_Envíos\201902273_Envíos\obj\Debug\201902273_Envíos.vbprojResolveAssemblyReference.cache
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREA7\201902273_Envíos\201902273_Envíos\obj\Debug\_201902273_Envíos.Form1.resources
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREA7\201902273_Envíos\201902273_Envíos\obj\Debug\_201902273_Envíos.Resources.resources
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREA7\201902273_Envíos\201902273_Envíos\obj\Debug\201902273_Envíos.vbproj.GenerateResource.Cache
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREA7\201902273_Envíos\201902273_Envíos\obj\Debug\201902273_Envíos.vbproj.CoreCompileInputs.cache
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREA7\201902273_Envíos\201902273_Envíos\obj\Debug\201902273_Envíos.exe
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREA7\201902273_Envíos\201902273_Envíos\obj\Debug\201902273_Envíos.xml
+C:\Users\sthef\Desktop\PROGRAMACIÓN\201902273_TAREA7\201902273_Envíos\201902273_Envíos\obj\Debug\201902273_Envíos.pdb
